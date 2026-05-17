@@ -112,7 +112,7 @@ library(gtsummary)
 library(kableExtra)
 
 #load data
-setwd("/Users/a1-6/Desktop/CSS/1. Discrete choice modeling/DCM Assignment/Final assignment")
+setwd("")
 
 ess11 <- read_dta("ESS11.dta")  
 #str(ess11)
