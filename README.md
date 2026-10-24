@@ -6,15 +6,14 @@ Market analysis for a new-market strategy, using European Social Survey data.
 
 How do drinking habits differ between income groups in Finland: how often people drink, whether they drink on weekdays, and how gender and life satisfaction change this?
 
-## Data
-
-European Social Survey, round 11 (edition 2.0), Finland respondents, 2023. The survey is a large general-population study run every two years in many European countries.
-
-## Method
+## Data Method
+Data from European Social Survey, round 11 (edition 2.0), Finland respondents, 2023. The survey is a large general-population study run every two years in most European countries.
 
 - Multinomial logit for drinking frequency by income (hypothesis 1)
 - Binary logit for weekday drinking (hypothesis 2)
 - K-means clustering to look for natural drinking segments
+
+
 
 ## Findings
 
@@ -27,15 +26,11 @@ European Social Survey, round 11 (edition 2.0), Finland respondents, 2023. The s
 - Weekday drinking is driven mostly by frequent drinkers, not by income.
 - Middle-income respondents drink less often than the other two income groups.
 
-Limitations: income is a household decile measure, and both drinking frequency and happiness are self-reported.
 
 ## Files
 
 - `User Drinking Behavior Report.pdf` the full report
 - `User Drinking Behaviors by Income Levels2025.qmd` the analysis code
 
-## Tools
 
-R (ggplot2, dplyr) and Quarto.
-
-Author: Min Tang
+Author: Kyla Tang
