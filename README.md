@@ -1,11 +1,6 @@
-# Data Analysis for market strategy Drinking Behaviour by Income in Finland
+# Drinking Behaviour by Income in Finland
 
-## Author: Min 
-
-
-Market analysis for a new-market strategy, using European Social Survey data. It is a large-scale, general population survey based on face-to-face and conducted in many European countries every two years.
-This report presents an analysis of drinking behavior patterns in different income groups in Finland during 2023.
-
+Market analysis for a new-market strategy, using European Social Survey data.
 
 ## Question
 
@@ -13,7 +8,7 @@ How do drinking habits differ between income groups in Finland: how often people
 
 ## Data
 
-European Social Survey, round 11 (edition 2.0), Finland respondents, 2023. The survey is a large general-population study run every two years in many Europeanå countries.
+European Social Survey, round 11 (edition 2.0), Finland respondents, 2023. The survey is a large general-population study run every two years in many European countries.
 
 ## Method
 
